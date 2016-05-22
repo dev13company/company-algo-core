@@ -75,8 +75,8 @@ for(int i=0; i<digits)*/
 		return bool; 
 	} 
 	public static void main(String[] args) { 
-		int n = 534976; 
-		// int k = 123456; 
+		//		int n = 534976; 
+		int n = 123321; 
 		NextHighestNumber number = new NextHighestNumber(); 
 		System.out.println(" Next Highest Number "+number.getNextHN(n)); 
 	} 
